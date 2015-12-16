@@ -1,0 +1,999 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+SyndFeedImpl.docs=null
+SyndFeedImpl.link=null
+SyndFeedImpl.descriptionEx.value=We've Got Mail!
+SyndFeedImpl.descriptionEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.descriptionEx.type=null
+SyndFeedImpl.descriptionEx.mode=null
+SyndFeedImpl.supportedFeedTypes[0]=rss_0.91N
+SyndFeedImpl.supportedFeedTypes[1]=rss_0.93
+SyndFeedImpl.supportedFeedTypes[2]=rss_0.92
+SyndFeedImpl.supportedFeedTypes[3]=rss_1.0
+SyndFeedImpl.supportedFeedTypes[4]=rss_0.94
+SyndFeedImpl.supportedFeedTypes[5]=rss_2.0
+SyndFeedImpl.supportedFeedTypes[6]=rss_0.91U
+SyndFeedImpl.supportedFeedTypes[7]=rss_0.9
+SyndFeedImpl.supportedFeedTypes[8]=atom_1.0
+SyndFeedImpl.supportedFeedTypes[9]=atom_0.3
+SyndFeedImpl.titleEx.value=MarkMail: thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.titleEx.type=null
+SyndFeedImpl.titleEx.mode=null
+SyndFeedImpl.authors=[]
+SyndFeedImpl.author=null
+SyndFeedImpl.title=MarkMail: thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.description=We've Got Mail!
+SyndFeedImpl.encoding=null
+SyndFeedImpl.generator=null
+SyndFeedImpl.entries[0].contributors=[]
+SyndFeedImpl.entries[0].contents[0].value=<div xmlns="intentional"><div><table style="border-bottom: 1px solid #ccc; margin-bottom: 10px;"><tbody><tr><th style="text-align: right; font-weight: normal">From:</th><td>Robert S. Thau (rs...@ai.mit.edu)</td></tr><tr><th style="text-align: right; font-weight: normal">List:</th><td><span xmlns:xhtml="intentional">org.apache.httpd.dev</span></td></tr></tbody></table><div><div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   From: Rob Hartill &lt;hart...@ooo.lanl.gov&gt;
+   Date: Tue, 28 Feb 95 9:51:57 MST
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   There's also my pach for content negotitation.
+   This is simple to install, with a very low
+   additional overhead when not used. Probably needs some
+   more development, but it currently works and is an easy patch.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   rob
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Now on the list as a functional enhancement.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">(NB, there's a *potential* conflict with other, as yet undetermined,
+mechanisms for content negotiation which don't involve CGI overhead on
+every hit).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">rst
+
+</p></div></div></div></div>
+SyndFeedImpl.entries[0].contents[0].interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[0].contents[0].type=html
+SyndFeedImpl.entries[0].contents[0].mode=null
+SyndFeedImpl.entries[0].updatedDate=Tue Feb 28 14:02:45 EST 1995
+SyndFeedImpl.entries[0].link=http://markmail.org/message/lcswnf2tgwu2k3y2?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[0].foreignMarkup=[]
+SyndFeedImpl.entries[0].links[0].hreflang=null
+SyndFeedImpl.entries[0].links[0].title=null
+SyndFeedImpl.entries[0].links[0].length=0
+SyndFeedImpl.entries[0].links[0].rel=alternate
+SyndFeedImpl.entries[0].links[0].type=null
+SyndFeedImpl.entries[0].links[0].href=http://markmail.org/message/lcswnf2tgwu2k3y2?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[0].interface=interface com.rometools.rome.feed.synd.SyndEntry
+SyndFeedImpl.entries[0].uri=urn:uuid:markmail-lcswnf2tgwu2k3y2
+SyndFeedImpl.entries[0].enclosures=[]
+SyndFeedImpl.entries[0].titleEx.value=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[0].titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[0].titleEx.type=null
+SyndFeedImpl.entries[0].titleEx.mode=null
+SyndFeedImpl.entries[0].authors[0].email=null
+SyndFeedImpl.entries[0].authors[0].name=Robert S. Thau
+SyndFeedImpl.entries[0].authors[0].modules=[]
+SyndFeedImpl.entries[0].authors[0].uri=null
+SyndFeedImpl.entries[0].author=Robert S. Thau
+SyndFeedImpl.entries[0].title=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[0].source=null
+SyndFeedImpl.entries[0].description=null
+SyndFeedImpl.entries[0].categories=[]
+SyndFeedImpl.entries[0].publishedDate=Tue Feb 28 14:02:45 EST 1995
+SyndFeedImpl.entries[0].wireEntry=null
+SyndFeedImpl.entries[0].modules[0].publishers=[]
+SyndFeedImpl.entries[0].modules[0].subjects=[]
+SyndFeedImpl.entries[0].modules[0].identifiers=[]
+SyndFeedImpl.entries[0].modules[0].subject=null
+SyndFeedImpl.entries[0].modules[0].coverages=[]
+SyndFeedImpl.entries[0].modules[0].rights=null
+SyndFeedImpl.entries[0].modules[0].date=Tue Feb 28 14:02:45 EST 1995
+SyndFeedImpl.entries[0].modules[0].type=null
+SyndFeedImpl.entries[0].modules[0].sources=[]
+SyndFeedImpl.entries[0].modules[0].descriptions=[]
+SyndFeedImpl.entries[0].modules[0].creator=Robert S. Thau
+SyndFeedImpl.entries[0].modules[0].formats=[]
+SyndFeedImpl.entries[0].modules[0].publisher=null
+SyndFeedImpl.entries[0].modules[0].languages=[]
+SyndFeedImpl.entries[0].modules[0].title=null
+SyndFeedImpl.entries[0].modules[0].dates[0]=Tue Feb 28 14:02:45 EST 1995
+SyndFeedImpl.entries[0].modules[0].description=null
+SyndFeedImpl.entries[0].modules[0].contributor=null
+SyndFeedImpl.entries[0].modules[0].types=[]
+SyndFeedImpl.entries[0].modules[0].contributors=[]
+SyndFeedImpl.entries[0].modules[0].relation=null
+SyndFeedImpl.entries[0].modules[0].format=null
+SyndFeedImpl.entries[0].modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.entries[0].modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.entries[0].modules[0].creators[0]=Robert S. Thau
+SyndFeedImpl.entries[0].modules[0].source=null
+SyndFeedImpl.entries[0].modules[0].relations=[]
+SyndFeedImpl.entries[0].modules[0].coverage=null
+SyndFeedImpl.entries[0].modules[0].titles=[]
+SyndFeedImpl.entries[0].modules[0].rightsList=[]
+SyndFeedImpl.entries[0].modules[0].language=null
+SyndFeedImpl.entries[0].modules[0].identifier=null
+SyndFeedImpl.entries[0].comments=null
+SyndFeedImpl.entries[1].contributors=[]
+SyndFeedImpl.entries[1].contents[0].value=<div xmlns="intentional"><div><table style="border-bottom: 1px solid #ccc; margin-bottom: 10px;"><tbody><tr><th style="text-align: right; font-weight: normal">From:</th><td>Robert S. Thau (rs...@ai.mit.edu)</td></tr><tr><th style="text-align: right; font-weight: normal">List:</th><td><span xmlns:xhtml="intentional">org.apache.httpd.dev</span></td></tr></tbody></table><div><div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   From: cli...@steam.com (Cliff Skolnick)
+   Date: Tue, 28 Feb 1995 08:48:10 PST
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   I liked this at first, but and now having reservations.  I think
+   we should suggest that people submit their changes with "#ifdef",
+   but we will remove them from the working sources and use the
+   rcs facility to insert them at a later time.  I am worried that people
+   will need to really understand where changes have been made in the
+   code.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Sure.  My point is that RCS can tell you that --- it can even tell you
+that using #ifdefs if that's the way you want to see it.  And you
+don't have to worry about people screwing up the #ifdefs --- something
+I've done already with the ai_httpd sources, and I'd probably wind up
+doing again.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   At least with #ifdef you remember what was modified.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">So long as you remembered to put in the #ifdef.  Sometimes, people
+forget.  With RCS, this is not a problem.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">(A minor war story may be instructive, if only to let people know
+where I'm coming from.  In the ai_httpd sources I've put up on
+ftp.ai.mit.edu, the nameserver cache is an option, so the code can be
+compiled at sites which don't do mmap().  My first cut at doing this
+left out an #ifdef around a line of modified code (the call to
+write_nameserver_cache in get_remote_host), meaning that while my
+modified server tested just fine, the base configuration could not be
+compiled after the patch.  I fixed that, but this sort of human error
+is likely to happen again, and probably not just to me.  If you really
+want accurate annotations as to what changed when, it's much better to
+have a machine do the work).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   There may
+   also come a time where patch integration might not be done in a serial
+   fasion and the possibilty of two simultaneous patches stepping on
+   each others toes exists.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Then the two patches have to be reconciled --- this is the biggest job
+of the human doing integration.  I'm not sure I see how manually
+inserted #ifdefs help.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   Great list, good ideas.  Do you have a potential date for release
+   of your first integration?
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   Cliff
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">For those who tuned in late, Cliff's referring to an offer I made last
+week, to gather a bunch of the patches in my list, integrate them into
+a single body of code (with emphasis on the patches which group
+members *need* in order to keep their sites up), test the hell out of
+the result, and distribute it --- *in* *order* to get everyone quickly
+using a single code base which we could then use as a basis for
+further devlopment.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">In subsequent discussions, there seemed to be a general consensus that
+this was not the way to go, and that we needed some sort of more
+orderly review process which would take a few weeks to set up.  If
+that's what the group wants, I don't object, but it does seem to make
+the "first integration" a waste of my time and everybody else's ---
+I'd have to spend time putting it together and testing it, everyone
+else would have to spend at least a little time making sure that it
+worked locally (start it on a spare port, poke around; I know I would)
+--- and in a couple of weeks the whole thing would get thrown away
+anyway.  Since we all have *something* we can live with in the
+meantime, I just don't see the point.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">(Of course, that assumes that the orderly review process gets set up
+and proceeds with reasonable dispatch --- but if it doesn't, we've
+hamstrung ourselves anyway; in that case, we ought to stop doing it,
+and do something else).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">rst
+
+</p></div></div></div></div>
+SyndFeedImpl.entries[1].contents[0].interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[1].contents[0].type=html
+SyndFeedImpl.entries[1].contents[0].mode=null
+SyndFeedImpl.entries[1].updatedDate=Tue Feb 28 13:59:38 EST 1995
+SyndFeedImpl.entries[1].link=http://markmail.org/message/eyjfres6u2yfnanv?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[1].foreignMarkup=[]
+SyndFeedImpl.entries[1].links[0].hreflang=null
+SyndFeedImpl.entries[1].links[0].title=null
+SyndFeedImpl.entries[1].links[0].length=0
+SyndFeedImpl.entries[1].links[0].rel=alternate
+SyndFeedImpl.entries[1].links[0].type=null
+SyndFeedImpl.entries[1].links[0].href=http://markmail.org/message/eyjfres6u2yfnanv?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[1].interface=interface com.rometools.rome.feed.synd.SyndEntry
+SyndFeedImpl.entries[1].uri=urn:uuid:markmail-eyjfres6u2yfnanv
+SyndFeedImpl.entries[1].enclosures=[]
+SyndFeedImpl.entries[1].titleEx.value=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[1].titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[1].titleEx.type=null
+SyndFeedImpl.entries[1].titleEx.mode=null
+SyndFeedImpl.entries[1].authors[0].email=null
+SyndFeedImpl.entries[1].authors[0].name=Robert S. Thau
+SyndFeedImpl.entries[1].authors[0].modules=[]
+SyndFeedImpl.entries[1].authors[0].uri=null
+SyndFeedImpl.entries[1].author=Robert S. Thau
+SyndFeedImpl.entries[1].title=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[1].source=null
+SyndFeedImpl.entries[1].description=null
+SyndFeedImpl.entries[1].categories=[]
+SyndFeedImpl.entries[1].publishedDate=Tue Feb 28 13:59:38 EST 1995
+SyndFeedImpl.entries[1].wireEntry=null
+SyndFeedImpl.entries[1].modules[0].publishers=[]
+SyndFeedImpl.entries[1].modules[0].subjects=[]
+SyndFeedImpl.entries[1].modules[0].identifiers=[]
+SyndFeedImpl.entries[1].modules[0].subject=null
+SyndFeedImpl.entries[1].modules[0].coverages=[]
+SyndFeedImpl.entries[1].modules[0].rights=null
+SyndFeedImpl.entries[1].modules[0].date=Tue Feb 28 13:59:38 EST 1995
+SyndFeedImpl.entries[1].modules[0].type=null
+SyndFeedImpl.entries[1].modules[0].sources=[]
+SyndFeedImpl.entries[1].modules[0].descriptions=[]
+SyndFeedImpl.entries[1].modules[0].creator=Robert S. Thau
+SyndFeedImpl.entries[1].modules[0].formats=[]
+SyndFeedImpl.entries[1].modules[0].publisher=null
+SyndFeedImpl.entries[1].modules[0].languages=[]
+SyndFeedImpl.entries[1].modules[0].title=null
+SyndFeedImpl.entries[1].modules[0].dates[0]=Tue Feb 28 13:59:38 EST 1995
+SyndFeedImpl.entries[1].modules[0].description=null
+SyndFeedImpl.entries[1].modules[0].contributor=null
+SyndFeedImpl.entries[1].modules[0].types=[]
+SyndFeedImpl.entries[1].modules[0].contributors=[]
+SyndFeedImpl.entries[1].modules[0].relation=null
+SyndFeedImpl.entries[1].modules[0].format=null
+SyndFeedImpl.entries[1].modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.entries[1].modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.entries[1].modules[0].creators[0]=Robert S. Thau
+SyndFeedImpl.entries[1].modules[0].source=null
+SyndFeedImpl.entries[1].modules[0].relations=[]
+SyndFeedImpl.entries[1].modules[0].coverage=null
+SyndFeedImpl.entries[1].modules[0].titles=[]
+SyndFeedImpl.entries[1].modules[0].rightsList=[]
+SyndFeedImpl.entries[1].modules[0].language=null
+SyndFeedImpl.entries[1].modules[0].identifier=null
+SyndFeedImpl.entries[1].comments=null
+SyndFeedImpl.entries[2].contributors=[]
+SyndFeedImpl.entries[2].contents[0].value=<div xmlns="intentional"><div><table style="border-bottom: 1px solid #ccc; margin-bottom: 10px;"><tbody><tr><th style="text-align: right; font-weight: normal">From:</th><td>Rob Hartill (hart...@ooo.lanl.gov)</td></tr><tr><th style="text-align: right; font-weight: normal">List:</th><td><span xmlns:xhtml="intentional">org.apache.httpd.dev</span></td></tr></tbody></table><div><div><div style="padding-left: 10px; color: blue; border-left: 2px solid blue;"><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">
+This sounds like a functional enhancement, but I'm not sure from this
+description exactly what it does.  It *sounds* as if it's using the
+010 bit to alter the handling of conditional GETs somehow --- could
+you fill in the details?  Thanks.
+</p></div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">
+People using the XBITHACK to decide which documents should be
+parsed for includes are stuck with having all the clients and
+proxies out there reloading them every time. They don't prodcuce
+a "Last-modified:" header, and hence they can't be cached.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Lots of people use includes to pull in info that doesn't change often,
+and to add the current time etc. By setting the group X bit, the
+document author can ask httpd to send a "Last-modified:" header
+anyway. We use this hack at www.cm.cf.ac.uk, where lots of
+pages have includes, but don't contain info that is too time
+critical. 
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">The document author has full control over which documents can
+be cached, and which shouldn't. 
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">A good client will allow the user to RELOAD any page so as to
+refresh any includes. (Netscape's broken in that respect).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">It's a 2 line patch to the XBITHACK.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">rob.
+
+</p></div></div></div></div>
+SyndFeedImpl.entries[2].contents[0].interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[2].contents[0].type=html
+SyndFeedImpl.entries[2].contents[0].mode=null
+SyndFeedImpl.entries[2].updatedDate=Tue Feb 28 13:33:27 EST 1995
+SyndFeedImpl.entries[2].link=http://markmail.org/message/i3vx6x5q5nftgr22?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[2].foreignMarkup=[]
+SyndFeedImpl.entries[2].links[0].hreflang=null
+SyndFeedImpl.entries[2].links[0].title=null
+SyndFeedImpl.entries[2].links[0].length=0
+SyndFeedImpl.entries[2].links[0].rel=alternate
+SyndFeedImpl.entries[2].links[0].type=null
+SyndFeedImpl.entries[2].links[0].href=http://markmail.org/message/i3vx6x5q5nftgr22?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[2].interface=interface com.rometools.rome.feed.synd.SyndEntry
+SyndFeedImpl.entries[2].uri=urn:uuid:markmail-i3vx6x5q5nftgr22
+SyndFeedImpl.entries[2].enclosures=[]
+SyndFeedImpl.entries[2].titleEx.value=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[2].titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[2].titleEx.type=null
+SyndFeedImpl.entries[2].titleEx.mode=null
+SyndFeedImpl.entries[2].authors[0].email=null
+SyndFeedImpl.entries[2].authors[0].name=Rob Hartill
+SyndFeedImpl.entries[2].authors[0].modules=[]
+SyndFeedImpl.entries[2].authors[0].uri=null
+SyndFeedImpl.entries[2].author=Rob Hartill
+SyndFeedImpl.entries[2].title=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[2].source=null
+SyndFeedImpl.entries[2].description=null
+SyndFeedImpl.entries[2].categories=[]
+SyndFeedImpl.entries[2].publishedDate=Tue Feb 28 13:33:27 EST 1995
+SyndFeedImpl.entries[2].wireEntry=null
+SyndFeedImpl.entries[2].modules[0].publishers=[]
+SyndFeedImpl.entries[2].modules[0].subjects=[]
+SyndFeedImpl.entries[2].modules[0].identifiers=[]
+SyndFeedImpl.entries[2].modules[0].subject=null
+SyndFeedImpl.entries[2].modules[0].coverages=[]
+SyndFeedImpl.entries[2].modules[0].rights=null
+SyndFeedImpl.entries[2].modules[0].date=Tue Feb 28 13:33:27 EST 1995
+SyndFeedImpl.entries[2].modules[0].type=null
+SyndFeedImpl.entries[2].modules[0].sources=[]
+SyndFeedImpl.entries[2].modules[0].descriptions=[]
+SyndFeedImpl.entries[2].modules[0].creator=Rob Hartill
+SyndFeedImpl.entries[2].modules[0].formats=[]
+SyndFeedImpl.entries[2].modules[0].publisher=null
+SyndFeedImpl.entries[2].modules[0].languages=[]
+SyndFeedImpl.entries[2].modules[0].title=null
+SyndFeedImpl.entries[2].modules[0].dates[0]=Tue Feb 28 13:33:27 EST 1995
+SyndFeedImpl.entries[2].modules[0].description=null
+SyndFeedImpl.entries[2].modules[0].contributor=null
+SyndFeedImpl.entries[2].modules[0].types=[]
+SyndFeedImpl.entries[2].modules[0].contributors=[]
+SyndFeedImpl.entries[2].modules[0].relation=null
+SyndFeedImpl.entries[2].modules[0].format=null
+SyndFeedImpl.entries[2].modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.entries[2].modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.entries[2].modules[0].creators[0]=Rob Hartill
+SyndFeedImpl.entries[2].modules[0].source=null
+SyndFeedImpl.entries[2].modules[0].relations=[]
+SyndFeedImpl.entries[2].modules[0].coverage=null
+SyndFeedImpl.entries[2].modules[0].titles=[]
+SyndFeedImpl.entries[2].modules[0].rightsList=[]
+SyndFeedImpl.entries[2].modules[0].language=null
+SyndFeedImpl.entries[2].modules[0].identifier=null
+SyndFeedImpl.entries[2].comments=null
+SyndFeedImpl.entries[3].contributors=[]
+SyndFeedImpl.entries[3].contents[0].value=<div xmlns="intentional"><div><table style="border-bottom: 1px solid #ccc; margin-bottom: 10px;"><tbody><tr><th style="text-align: right; font-weight: normal">From:</th><td>Robert S. Thau (rs...@ai.mit.edu)</td></tr><tr><th style="text-align: right; font-weight: normal">List:</th><td><span xmlns:xhtml="intentional">org.apache.httpd.dev</span></td></tr></tbody></table><div><div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   Date: Tue, 28 Feb 95 16:38:20 GMT
+   From: and...@hyperreal.com (Andrew Wilson)
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   I have two important patches.  Important 'cuz I've got pages (on
+   COMMA and other places) which need the given functionality.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   I'd like to see the XBITHACK loophole closed, whereby +x .html
+   documents that were #include'd and which contained &lt;!--#foo
+   statements themselves, were not parsed.  It's a functional
+   enhancement only in so far as it repairs an oversight in the
+   original code. (You CAN do this with .shtml files containing
+   additional &lt;!--#junk in 1.3) [Andy Wilson]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">OK, added to the working copy of my list as a bugfix.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   Ditto those GROUP XBIT hacks which tell caching proxies that files haven't
+   been changed since they last visited, one of Rob Hartill's babies I think.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">This sounds like a functional enhancement, but I'm not sure from this
+description exactly what it does.  It *sounds* as if it's using the
+010 bit to alter the handling of conditional GETs somehow --- could
+you fill in the details?  Thanks.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   Andrew Wilson     URL: <a href="http://www.cm.cf.ac.uk/User/Andrew.Wilson/">http://www.cm.cf.ac.uk/User/Andrew.Wilson/</a>
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">rst
+
+</p></div></div></div></div>
+SyndFeedImpl.entries[3].contents[0].interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[3].contents[0].type=html
+SyndFeedImpl.entries[3].contents[0].mode=null
+SyndFeedImpl.entries[3].updatedDate=Tue Feb 28 13:24:54 EST 1995
+SyndFeedImpl.entries[3].link=http://markmail.org/message/wmm5m6b5oimblvkf?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[3].foreignMarkup=[]
+SyndFeedImpl.entries[3].links[0].hreflang=null
+SyndFeedImpl.entries[3].links[0].title=null
+SyndFeedImpl.entries[3].links[0].length=0
+SyndFeedImpl.entries[3].links[0].rel=alternate
+SyndFeedImpl.entries[3].links[0].type=null
+SyndFeedImpl.entries[3].links[0].href=http://markmail.org/message/wmm5m6b5oimblvkf?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[3].interface=interface com.rometools.rome.feed.synd.SyndEntry
+SyndFeedImpl.entries[3].uri=urn:uuid:markmail-wmm5m6b5oimblvkf
+SyndFeedImpl.entries[3].enclosures=[]
+SyndFeedImpl.entries[3].titleEx.value=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[3].titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[3].titleEx.type=null
+SyndFeedImpl.entries[3].titleEx.mode=null
+SyndFeedImpl.entries[3].authors[0].email=null
+SyndFeedImpl.entries[3].authors[0].name=Robert S. Thau
+SyndFeedImpl.entries[3].authors[0].modules=[]
+SyndFeedImpl.entries[3].authors[0].uri=null
+SyndFeedImpl.entries[3].author=Robert S. Thau
+SyndFeedImpl.entries[3].title=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[3].source=null
+SyndFeedImpl.entries[3].description=null
+SyndFeedImpl.entries[3].categories=[]
+SyndFeedImpl.entries[3].publishedDate=Tue Feb 28 13:24:54 EST 1995
+SyndFeedImpl.entries[3].wireEntry=null
+SyndFeedImpl.entries[3].modules[0].publishers=[]
+SyndFeedImpl.entries[3].modules[0].subjects=[]
+SyndFeedImpl.entries[3].modules[0].identifiers=[]
+SyndFeedImpl.entries[3].modules[0].subject=null
+SyndFeedImpl.entries[3].modules[0].coverages=[]
+SyndFeedImpl.entries[3].modules[0].rights=null
+SyndFeedImpl.entries[3].modules[0].date=Tue Feb 28 13:24:54 EST 1995
+SyndFeedImpl.entries[3].modules[0].type=null
+SyndFeedImpl.entries[3].modules[0].sources=[]
+SyndFeedImpl.entries[3].modules[0].descriptions=[]
+SyndFeedImpl.entries[3].modules[0].creator=Robert S. Thau
+SyndFeedImpl.entries[3].modules[0].formats=[]
+SyndFeedImpl.entries[3].modules[0].publisher=null
+SyndFeedImpl.entries[3].modules[0].languages=[]
+SyndFeedImpl.entries[3].modules[0].title=null
+SyndFeedImpl.entries[3].modules[0].dates[0]=Tue Feb 28 13:24:54 EST 1995
+SyndFeedImpl.entries[3].modules[0].description=null
+SyndFeedImpl.entries[3].modules[0].contributor=null
+SyndFeedImpl.entries[3].modules[0].types=[]
+SyndFeedImpl.entries[3].modules[0].contributors=[]
+SyndFeedImpl.entries[3].modules[0].relation=null
+SyndFeedImpl.entries[3].modules[0].format=null
+SyndFeedImpl.entries[3].modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.entries[3].modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.entries[3].modules[0].creators[0]=Robert S. Thau
+SyndFeedImpl.entries[3].modules[0].source=null
+SyndFeedImpl.entries[3].modules[0].relations=[]
+SyndFeedImpl.entries[3].modules[0].coverage=null
+SyndFeedImpl.entries[3].modules[0].titles=[]
+SyndFeedImpl.entries[3].modules[0].rightsList=[]
+SyndFeedImpl.entries[3].modules[0].language=null
+SyndFeedImpl.entries[3].modules[0].identifier=null
+SyndFeedImpl.entries[3].comments=null
+SyndFeedImpl.entries[4].contributors=[]
+SyndFeedImpl.entries[4].contents[0].value=<div xmlns="intentional"><div><table style="border-bottom: 1px solid #ccc; margin-bottom: 10px;"><tbody><tr><th style="text-align: right; font-weight: normal">From:</th><td>Rob Hartill (hart...@ooo.lanl.gov)</td></tr><tr><th style="text-align: right; font-weight: normal">List:</th><td><span xmlns:xhtml="intentional">org.apache.httpd.dev</span></td></tr></tbody></table><div><div><div style="padding-left: 10px; color: blue; border-left: 2px solid blue;"><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">
+Ditto those GROUP XBIT hacks which tell caching proxies that files haven't
+been changed since they last visited, one of Rob Hartill's babies I think.
+
+</p></div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">There's also my pach for content negotitation.
+This is simple to install, with a very low
+additional overhead when not used. Probably needs some
+more development, but it currently works and is an easy patch.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">rob
+
+</p></div></div></div></div>
+SyndFeedImpl.entries[4].contents[0].interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[4].contents[0].type=html
+SyndFeedImpl.entries[4].contents[0].mode=null
+SyndFeedImpl.entries[4].updatedDate=null
+SyndFeedImpl.entries[4].link=http://markmail.org/message/wwh3xf4ssm5oil7x?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[4].foreignMarkup=[]
+SyndFeedImpl.entries[4].links[0].hreflang=null
+SyndFeedImpl.entries[4].links[0].title=null
+SyndFeedImpl.entries[4].links[0].length=0
+SyndFeedImpl.entries[4].links[0].rel=alternate
+SyndFeedImpl.entries[4].links[0].type=null
+SyndFeedImpl.entries[4].links[0].href=http://markmail.org/message/wwh3xf4ssm5oil7x?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[4].interface=interface com.rometools.rome.feed.synd.SyndEntry
+SyndFeedImpl.entries[4].uri=urn:uuid:markmail-wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[4].enclosures=[]
+SyndFeedImpl.entries[4].titleEx.value=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[4].titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[4].titleEx.type=null
+SyndFeedImpl.entries[4].titleEx.mode=null
+SyndFeedImpl.entries[4].authors[0].email=null
+SyndFeedImpl.entries[4].authors[0].name=Rob Hartill
+SyndFeedImpl.entries[4].authors[0].modules=[]
+SyndFeedImpl.entries[4].authors[0].uri=null
+SyndFeedImpl.entries[4].author=Rob Hartill
+SyndFeedImpl.entries[4].title=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[4].source=null
+SyndFeedImpl.entries[4].description=null
+SyndFeedImpl.entries[4].categories=[]
+SyndFeedImpl.entries[4].publishedDate=null
+SyndFeedImpl.entries[4].wireEntry=null
+SyndFeedImpl.entries[4].modules[0].publishers=[]
+SyndFeedImpl.entries[4].modules[0].subjects=[]
+SyndFeedImpl.entries[4].modules[0].identifiers=[]
+SyndFeedImpl.entries[4].modules[0].subject=null
+SyndFeedImpl.entries[4].modules[0].coverages=[]
+SyndFeedImpl.entries[4].modules[0].rights=null
+SyndFeedImpl.entries[4].modules[0].date=null
+SyndFeedImpl.entries[4].modules[0].type=null
+SyndFeedImpl.entries[4].modules[0].sources=[]
+SyndFeedImpl.entries[4].modules[0].descriptions=[]
+SyndFeedImpl.entries[4].modules[0].creator=Rob Hartill
+SyndFeedImpl.entries[4].modules[0].formats=[]
+SyndFeedImpl.entries[4].modules[0].publisher=null
+SyndFeedImpl.entries[4].modules[0].languages=[]
+SyndFeedImpl.entries[4].modules[0].title=null
+SyndFeedImpl.entries[4].modules[0].dates=[]
+SyndFeedImpl.entries[4].modules[0].description=null
+SyndFeedImpl.entries[4].modules[0].contributor=null
+SyndFeedImpl.entries[4].modules[0].types=[]
+SyndFeedImpl.entries[4].modules[0].contributors=[]
+SyndFeedImpl.entries[4].modules[0].relation=null
+SyndFeedImpl.entries[4].modules[0].format=null
+SyndFeedImpl.entries[4].modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.entries[4].modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.entries[4].modules[0].creators[0]=Rob Hartill
+SyndFeedImpl.entries[4].modules[0].source=null
+SyndFeedImpl.entries[4].modules[0].relations=[]
+SyndFeedImpl.entries[4].modules[0].coverage=null
+SyndFeedImpl.entries[4].modules[0].titles=[]
+SyndFeedImpl.entries[4].modules[0].rightsList=[]
+SyndFeedImpl.entries[4].modules[0].language=null
+SyndFeedImpl.entries[4].modules[0].identifier=null
+SyndFeedImpl.entries[4].comments=null
+SyndFeedImpl.entries[5].contributors=[]
+SyndFeedImpl.entries[5].contents[0].value=<div xmlns="intentional"><div><table style="border-bottom: 1px solid #ccc; margin-bottom: 10px;"><tbody><tr><th style="text-align: right; font-weight: normal">From:</th><td>Cliff Skolnick (cli...@steam.com)</td></tr><tr><th style="text-align: right; font-weight: normal">List:</th><td><span xmlns:xhtml="intentional">org.apache.httpd.dev</span></td></tr></tbody></table><div><div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">On Feb 28, 11:20am, Robert S. Thau wrote:
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">} (In the meantime, NCSA has actually announced 1.4, which is now in
+} early beta.  What we do about this is our biggest unresolved issue).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">I say we integrate their changes as a patch.  Of course this may be
+a avery *BIG* patch.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">} Our current plan is to set up an RCS source tree someplace (probably
+} hyperreal.com), with the distributed NCSA server (which one?) as a
+} base.  We're going to apply patches to this, test the result, and when
+} it works, distribute it. --- probably under the name "Apache".  The
+} current consensus seems to be that we should have a review process for
+} which patches get applied, but the details remain to be hashed out.
+} (For instance, do we want an expedited process for simple bug-fixes,
+} of which an awful lot seem to be drifting by these days?)
+} 
+} [NB, that's not a consensus that your humble reporter particularly
+} *likes*, but it does seem to be the consensus].
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">I think many of the bug fixes are very small, and should be easy
+to evalutate.  We must really think about major revision, like multi
+threading.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">} As to the product, we seem to have decided to call it Apache.  (If
+} you're wondering about the name, say "Apache server" ten time fast.
+} Europeans may want to fake their best American accent while trying
+} this).  We may have just decided that the working sources will not
+} have #ifdefs around sections which are changed from the NCSA base
+} code, since RCS can generate the #ifdefs automatically whenever
+} required, and since some of the code would get awfully cluttered if
+} every bug fix had #ifdefs around it (particularly once we reach the
+} inevitable point of fixing bugs in our own code).  However, that was a
+} very recent discussion, and someone with serious objections may not
+} have spoken up.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">I liked this at first, but and now having reservations.  I think
+we should suggest that people submit their changes with "#ifdef",
+but we will remove them from the working sources and use the
+rcs facility to insert them at a later time.  I am worried that people
+will need to really understand where changes have been made in the
+code.  At least with #ifdef you remember what was modified.  There may
+also come a time where patch integration might not be done in a serial
+fasion and the possibilty of two simultaneous patches stepping on
+each others toes exists.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">} 
+} Finally, I might as well start listing the various patches which I've
+} seen discussed here over the past few days, with a view towards
+} starting some kind of discussion about which we are actually going go
+} with in the immediate future.  Going just from memory, with apologies
+} to anyone with something critical which I left out, we have the
+} following:
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">[Good List Deleted]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">} 
+} If anyone has something *right* *now* that they'd like to see in an
+} early Apache release, which I haven't listed, this would be a good
+} time to step forward.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Great list, good ideas.  Do you have a potential date for release
+of your first integration?
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">My free time has been sucked away by a problematic upgrade late last
+week and over the weekend.  I was planning on using that time to get
+the automated patch id server up along with a bunch of documents on
+hyperreal.  Unfortunately I'm going to have to keep putting this off
+until this weekend unfortunately since I will be out of town until
+then.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Cliff
+
+</p></div></div></div></div>
+SyndFeedImpl.entries[5].contents[0].interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[5].contents[0].type=html
+SyndFeedImpl.entries[5].contents[0].mode=null
+SyndFeedImpl.entries[5].updatedDate=Tue Feb 28 11:48:10 EST 1995
+SyndFeedImpl.entries[5].link=http://markmail.org/message/rujxvk7ajpkemacx?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[5].foreignMarkup=[]
+SyndFeedImpl.entries[5].links[0].hreflang=null
+SyndFeedImpl.entries[5].links[0].title=null
+SyndFeedImpl.entries[5].links[0].length=0
+SyndFeedImpl.entries[5].links[0].rel=alternate
+SyndFeedImpl.entries[5].links[0].type=null
+SyndFeedImpl.entries[5].links[0].href=http://markmail.org/message/rujxvk7ajpkemacx?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[5].interface=interface com.rometools.rome.feed.synd.SyndEntry
+SyndFeedImpl.entries[5].uri=urn:uuid:markmail-rujxvk7ajpkemacx
+SyndFeedImpl.entries[5].enclosures=[]
+SyndFeedImpl.entries[5].titleEx.value=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[5].titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[5].titleEx.type=null
+SyndFeedImpl.entries[5].titleEx.mode=null
+SyndFeedImpl.entries[5].authors[0].email=null
+SyndFeedImpl.entries[5].authors[0].name=Cliff Skolnick
+SyndFeedImpl.entries[5].authors[0].modules=[]
+SyndFeedImpl.entries[5].authors[0].uri=null
+SyndFeedImpl.entries[5].author=Cliff Skolnick
+SyndFeedImpl.entries[5].title=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[5].source=null
+SyndFeedImpl.entries[5].description=null
+SyndFeedImpl.entries[5].categories=[]
+SyndFeedImpl.entries[5].publishedDate=Tue Feb 28 11:48:10 EST 1995
+SyndFeedImpl.entries[5].wireEntry=null
+SyndFeedImpl.entries[5].modules[0].publishers=[]
+SyndFeedImpl.entries[5].modules[0].subjects=[]
+SyndFeedImpl.entries[5].modules[0].identifiers=[]
+SyndFeedImpl.entries[5].modules[0].subject=null
+SyndFeedImpl.entries[5].modules[0].coverages=[]
+SyndFeedImpl.entries[5].modules[0].rights=null
+SyndFeedImpl.entries[5].modules[0].date=Tue Feb 28 11:48:10 EST 1995
+SyndFeedImpl.entries[5].modules[0].type=null
+SyndFeedImpl.entries[5].modules[0].sources=[]
+SyndFeedImpl.entries[5].modules[0].descriptions=[]
+SyndFeedImpl.entries[5].modules[0].creator=Cliff Skolnick
+SyndFeedImpl.entries[5].modules[0].formats=[]
+SyndFeedImpl.entries[5].modules[0].publisher=null
+SyndFeedImpl.entries[5].modules[0].languages=[]
+SyndFeedImpl.entries[5].modules[0].title=null
+SyndFeedImpl.entries[5].modules[0].dates[0]=Tue Feb 28 11:48:10 EST 1995
+SyndFeedImpl.entries[5].modules[0].description=null
+SyndFeedImpl.entries[5].modules[0].contributor=null
+SyndFeedImpl.entries[5].modules[0].types=[]
+SyndFeedImpl.entries[5].modules[0].contributors=[]
+SyndFeedImpl.entries[5].modules[0].relation=null
+SyndFeedImpl.entries[5].modules[0].format=null
+SyndFeedImpl.entries[5].modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.entries[5].modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.entries[5].modules[0].creators[0]=Cliff Skolnick
+SyndFeedImpl.entries[5].modules[0].source=null
+SyndFeedImpl.entries[5].modules[0].relations=[]
+SyndFeedImpl.entries[5].modules[0].coverage=null
+SyndFeedImpl.entries[5].modules[0].titles=[]
+SyndFeedImpl.entries[5].modules[0].rightsList=[]
+SyndFeedImpl.entries[5].modules[0].language=null
+SyndFeedImpl.entries[5].modules[0].identifier=null
+SyndFeedImpl.entries[5].comments=null
+SyndFeedImpl.entries[6].contributors=[]
+SyndFeedImpl.entries[6].contents[0].value=<div xmlns="intentional"><div><table style="border-bottom: 1px solid #ccc; margin-bottom: 10px;"><tbody><tr><th style="text-align: right; font-weight: normal">From:</th><td>Andrew Wilson (and...@hyperreal.com)</td></tr><tr><th style="text-align: right; font-weight: normal">List:</th><td><span xmlns:xhtml="intentional">org.apache.httpd.dev</span></td></tr></tbody></table><div><div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">
+Robert S. Thau:
+
+</p><div style="padding-left: 10px; color: blue; border-left: 2px solid blue;"><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Going just from memory, with apologies
+to anyone with something critical which I left out, we have the
+following:
+</p></div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">
+</p><div style="padding-left: 10px; color: blue; border-left: 2px solid blue;"><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">If anyone has something *right* *now* that they'd like to see in an
+early Apache release, which I haven't listed, this would be a good
+time to step forward.
+</p></div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">
+I have two important patches.  Important 'cuz I've got pages (on COMMA and other
+places) which need the given functionality.
+
+</p><div style="padding-left: 10px; color: blue; border-left: 2px solid blue;"><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Functional enhancements:  (Note that many of these are still in the
+process of being packaged up for submittal):
+</p></div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">
+[munch]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">I'd like to see the XBITHACK loophole closed, whereby +x .html documents that
+were #include'd and which contained &lt;!--#foo statements themselves, were
+not parsed.  It's a functional enhancement only in so far as it repairs
+an oversight in the original code. (You CAN do this with .shtml files
+containing additional &lt;!--#junk in 1.3) [Andy Wilson]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Ditto those GROUP XBIT hacks which tell caching proxies that files haven't
+been changed since they last visited, one of Rob Hartill's babies I think.
+
+</p><div style="padding-left: 10px; color: blue; border-left: 2px solid blue;"><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">rst
+
+</p></div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Cheers,
+Ay.
+
+</p><div style="font-style: italic; white-space: pre;"><p xml:space="preserve">Andrew Wilson      URL: <a href="http://www.cm.cf.ac.uk/User/Andrew.Wilson/">http://www.cm.cf.ac.uk/User/Andrew.Wilson/</a>
+Elsevier Science, Oxford  Tel: +44 0865 843155
+
+</p></div></div></div></div></div>
+SyndFeedImpl.entries[6].contents[0].interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[6].contents[0].type=html
+SyndFeedImpl.entries[6].contents[0].mode=null
+SyndFeedImpl.entries[6].updatedDate=Tue Feb 28 11:38:20 EST 1995
+SyndFeedImpl.entries[6].link=http://markmail.org/message/bmbvgzkbqird3wew?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[6].foreignMarkup=[]
+SyndFeedImpl.entries[6].links[0].hreflang=null
+SyndFeedImpl.entries[6].links[0].title=null
+SyndFeedImpl.entries[6].links[0].length=0
+SyndFeedImpl.entries[6].links[0].rel=alternate
+SyndFeedImpl.entries[6].links[0].type=null
+SyndFeedImpl.entries[6].links[0].href=http://markmail.org/message/bmbvgzkbqird3wew?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[6].interface=interface com.rometools.rome.feed.synd.SyndEntry
+SyndFeedImpl.entries[6].uri=urn:uuid:markmail-bmbvgzkbqird3wew
+SyndFeedImpl.entries[6].enclosures=[]
+SyndFeedImpl.entries[6].titleEx.value=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[6].titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[6].titleEx.type=null
+SyndFeedImpl.entries[6].titleEx.mode=null
+SyndFeedImpl.entries[6].authors[0].email=null
+SyndFeedImpl.entries[6].authors[0].name=Andrew Wilson
+SyndFeedImpl.entries[6].authors[0].modules=[]
+SyndFeedImpl.entries[6].authors[0].uri=null
+SyndFeedImpl.entries[6].author=Andrew Wilson
+SyndFeedImpl.entries[6].title=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[6].source=null
+SyndFeedImpl.entries[6].description=null
+SyndFeedImpl.entries[6].categories=[]
+SyndFeedImpl.entries[6].publishedDate=Tue Feb 28 11:38:20 EST 1995
+SyndFeedImpl.entries[6].wireEntry=null
+SyndFeedImpl.entries[6].modules[0].publishers=[]
+SyndFeedImpl.entries[6].modules[0].subjects=[]
+SyndFeedImpl.entries[6].modules[0].identifiers=[]
+SyndFeedImpl.entries[6].modules[0].subject=null
+SyndFeedImpl.entries[6].modules[0].coverages=[]
+SyndFeedImpl.entries[6].modules[0].rights=null
+SyndFeedImpl.entries[6].modules[0].date=Tue Feb 28 11:38:20 EST 1995
+SyndFeedImpl.entries[6].modules[0].type=null
+SyndFeedImpl.entries[6].modules[0].sources=[]
+SyndFeedImpl.entries[6].modules[0].descriptions=[]
+SyndFeedImpl.entries[6].modules[0].creator=Andrew Wilson
+SyndFeedImpl.entries[6].modules[0].formats=[]
+SyndFeedImpl.entries[6].modules[0].publisher=null
+SyndFeedImpl.entries[6].modules[0].languages=[]
+SyndFeedImpl.entries[6].modules[0].title=null
+SyndFeedImpl.entries[6].modules[0].dates[0]=Tue Feb 28 11:38:20 EST 1995
+SyndFeedImpl.entries[6].modules[0].description=null
+SyndFeedImpl.entries[6].modules[0].contributor=null
+SyndFeedImpl.entries[6].modules[0].types=[]
+SyndFeedImpl.entries[6].modules[0].contributors=[]
+SyndFeedImpl.entries[6].modules[0].relation=null
+SyndFeedImpl.entries[6].modules[0].format=null
+SyndFeedImpl.entries[6].modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.entries[6].modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.entries[6].modules[0].creators[0]=Andrew Wilson
+SyndFeedImpl.entries[6].modules[0].source=null
+SyndFeedImpl.entries[6].modules[0].relations=[]
+SyndFeedImpl.entries[6].modules[0].coverage=null
+SyndFeedImpl.entries[6].modules[0].titles=[]
+SyndFeedImpl.entries[6].modules[0].rightsList=[]
+SyndFeedImpl.entries[6].modules[0].language=null
+SyndFeedImpl.entries[6].modules[0].identifier=null
+SyndFeedImpl.entries[6].comments=null
+SyndFeedImpl.entries[7].contributors=[]
+SyndFeedImpl.entries[7].contents[0].value=<div xmlns="intentional"><div><table style="border-bottom: 1px solid #ccc; margin-bottom: 10px;"><tbody><tr><th style="text-align: right; font-weight: normal">From:</th><td>Robert S. Thau (rs...@ai.mit.edu)</td></tr><tr><th style="text-align: right; font-weight: normal">List:</th><td><span xmlns:xhtml="intentional">org.apache.httpd.dev</span></td></tr></tbody></table><div><div><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   Date: Mon, 27 Feb 1995 17:44:25 -0800 (PST)
+   From: Brian Behlendorf &lt;bri...@wired.com&gt;
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">   I've set up a very simple mailbox archive, at 
+   <a href="http://hyperreal.com/httpd/archive">http://hyperreal.com/httpd/archive</a> - I'll spend some time later tonight 
+   to convert it to hypermail if I have time.  Would someone be willing to 
+   summarize our current position and mail it to the list for the benefit of 
+   new subscribers and the archive?  I nominate rst for this.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">OK, Brian, you asked for it.  Here's my impression of the group
+consensus on areas where I think there is a consensus, along with a
+few important issues where I don't think a consensus has been reached.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">From the top:
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">NCSA httpd 1.3 was originally released the better part of a year ago.
+Since this release (which came more or less with the departure of Rob
+McCool to what is now Netscape), there hasn't been a new release of
+Unix server software from NCSA.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">However, 1.3 is not a perfect product, and in the absence of further
+visible development from NCSA, a lot of people have found themselves
+fixing or extending 1.3 to meet their needs --- in the process fixing
+the same bugs and deficiencies over and over, at different sites.  For
+instance, there are now three initgroups() patches floating around.
+This group consists of people who've all had to patch 1.3 at one time
+or another, either to extend server functionality, fix bugs, or
+improve performance.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Our goal is to produce a revised version of NCSA 1.3 which has all the
+popular fixes in it directly, in order to have a supported server
+which actually meets our needs.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">(In the meantime, NCSA has actually announced 1.4, which is now in
+early beta.  What we do about this is our biggest unresolved issue).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Our current plan is to set up an RCS source tree someplace (probably
+hyperreal.com), with the distributed NCSA server (which one?) as a
+base.  We're going to apply patches to this, test the result, and when
+it works, distribute it. --- probably under the name "Apache".  The
+current consensus seems to be that we should have a review process for
+which patches get applied, but the details remain to be hashed out.
+(For instance, do we want an expedited process for simple bug-fixes,
+of which an awful lot seem to be drifting by these days?)
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">[NB, that's not a consensus that your humble reporter particularly
+*likes*, but it does seem to be the consensus].
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">As to the product, we seem to have decided to call it Apache.  (If
+you're wondering about the name, say "Apache server" ten time fast.
+Europeans may want to fake their best American accent while trying
+this).  We may have just decided that the working sources will not
+have #ifdefs around sections which are changed from the NCSA base
+code, since RCS can generate the #ifdefs automatically whenever
+required, and since some of the code would get awfully cluttered if
+every bug fix had #ifdefs around it (particularly once we reach the
+inevitable point of fixing bugs in our own code).  However, that was a
+very recent discussion, and someone with serious objections may not
+have spoken up.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Finally, I might as well start listing the various patches which I've
+seen discussed here over the past few days, with a view towards
+starting some kind of discussion about which we are actually going go
+with in the immediate future.  Going just from memory, with apologies
+to anyone with something critical which I left out, we have the
+following:
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Bug fixes:  (most available in multiple versions)
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) The stack-scribbling security hole.  Note that there are two
+    patches for this -- the CIAC/CERT patch, and the official NCSA
+    patch.  The CERT patch makes the server processes substantially
+    larger; the NCSA patch doesn't, but a lot of us don't trust it.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) Server always pauses 3 seconds for scripts which send a redirect,
+    then gratuitously kills the process (which is probably dead anyway
+    at that point).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) &lt;!--#config timefmt --&gt; server-side include doesn't always take.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) log files should be written with O_APPEND.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) when access control is "Limit"ed with "Order allow,deny", the
+    server allows by default, making any Allow directives which may be
+    present redundant.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) httpd can't handle numeric User specs in httpd.conf unless that
+    uid appears in the passwd file.  If multiple usernames have the
+    same uid, it sometimes sets group permissions with the wrong one.
+    (Integrated with drtr's version of the initgroups() fix).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Performance enhancements:  (most available in multiple versions)
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) Don't do initgroups() once per connection.  (But do redo it after
+    rereading the config files).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) Don't do kernel read()s of one character, when reading MIME
+    headers from clients, or script CGI headers.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) Don't do open_locale() and tzset() once per connection.  (These
+    routines are called from C library time conversion code).
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) Shared-memory name server cache.  [I have this, though it's less
+    portable than it could be].
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">Functional enhancements:  (Note that many of these are still in the
+process of being packaged up for submittal):
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) DBM-based user databases for HTTP authentication. [Brian]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) New CGI variables (DOCUMENT_ROOT, SCRIPT_TRANSLATED_NAME). [Brian?]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) *.doit scripts (allows *any* URL to invoke a script, whether it
+    ends in a magic *.cgi suffix or not). [rst]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) Logging User-agent and Referer, at least on errors. [Roy Fielding?]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;"> *) Load throttling --- reject incoming connections if load is too
+    high. [Robert Evans]
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">If anyone has something *right* *now* that they'd like to see in an
+early Apache release, which I haven't listed, this would be a good
+time to step forward.
+
+</p><p xml:space="preserve" style="white-space: pre; margin: 0px; padding: 0px;">rst
+
+</p></div></div></div></div>
+SyndFeedImpl.entries[7].contents[0].interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[7].contents[0].type=html
+SyndFeedImpl.entries[7].contents[0].mode=null
+SyndFeedImpl.entries[7].updatedDate=Tue Feb 28 11:20:23 EST 1995
+SyndFeedImpl.entries[7].link=http://markmail.org/message/s25amdlfpdsbtuew?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[7].foreignMarkup=[]
+SyndFeedImpl.entries[7].links[0].hreflang=null
+SyndFeedImpl.entries[7].links[0].title=null
+SyndFeedImpl.entries[7].links[0].length=0
+SyndFeedImpl.entries[7].links[0].rel=alternate
+SyndFeedImpl.entries[7].links[0].type=null
+SyndFeedImpl.entries[7].links[0].href=http://markmail.org/message/s25amdlfpdsbtuew?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.entries[7].interface=interface com.rometools.rome.feed.synd.SyndEntry
+SyndFeedImpl.entries[7].uri=urn:uuid:markmail-s25amdlfpdsbtuew
+SyndFeedImpl.entries[7].enclosures=[]
+SyndFeedImpl.entries[7].titleEx.value=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[7].titleEx.interface=interface com.rometools.rome.feed.synd.SyndContent
+SyndFeedImpl.entries[7].titleEx.type=null
+SyndFeedImpl.entries[7].titleEx.mode=null
+SyndFeedImpl.entries[7].authors[0].email=null
+SyndFeedImpl.entries[7].authors[0].name=Robert S. Thau
+SyndFeedImpl.entries[7].authors[0].modules=[]
+SyndFeedImpl.entries[7].authors[0].uri=null
+SyndFeedImpl.entries[7].author=Robert S. Thau
+SyndFeedImpl.entries[7].title=Re: Informing NCSA, archive of the list
+SyndFeedImpl.entries[7].source=null
+SyndFeedImpl.entries[7].description=null
+SyndFeedImpl.entries[7].categories=[]
+SyndFeedImpl.entries[7].publishedDate=Tue Feb 28 11:20:23 EST 1995
+SyndFeedImpl.entries[7].wireEntry=null
+SyndFeedImpl.entries[7].modules[0].publishers=[]
+SyndFeedImpl.entries[7].modules[0].subjects=[]
+SyndFeedImpl.entries[7].modules[0].identifiers=[]
+SyndFeedImpl.entries[7].modules[0].subject=null
+SyndFeedImpl.entries[7].modules[0].coverages=[]
+SyndFeedImpl.entries[7].modules[0].rights=null
+SyndFeedImpl.entries[7].modules[0].date=Tue Feb 28 11:20:23 EST 1995
+SyndFeedImpl.entries[7].modules[0].type=null
+SyndFeedImpl.entries[7].modules[0].sources=[]
+SyndFeedImpl.entries[7].modules[0].descriptions=[]
+SyndFeedImpl.entries[7].modules[0].creator=Robert S. Thau
+SyndFeedImpl.entries[7].modules[0].formats=[]
+SyndFeedImpl.entries[7].modules[0].publisher=null
+SyndFeedImpl.entries[7].modules[0].languages=[]
+SyndFeedImpl.entries[7].modules[0].title=null
+SyndFeedImpl.entries[7].modules[0].dates[0]=Tue Feb 28 11:20:23 EST 1995
+SyndFeedImpl.entries[7].modules[0].description=null
+SyndFeedImpl.entries[7].modules[0].contributor=null
+SyndFeedImpl.entries[7].modules[0].types=[]
+SyndFeedImpl.entries[7].modules[0].contributors=[]
+SyndFeedImpl.entries[7].modules[0].relation=null
+SyndFeedImpl.entries[7].modules[0].format=null
+SyndFeedImpl.entries[7].modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.entries[7].modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.entries[7].modules[0].creators[0]=Robert S. Thau
+SyndFeedImpl.entries[7].modules[0].source=null
+SyndFeedImpl.entries[7].modules[0].relations=[]
+SyndFeedImpl.entries[7].modules[0].coverage=null
+SyndFeedImpl.entries[7].modules[0].titles=[]
+SyndFeedImpl.entries[7].modules[0].rightsList=[]
+SyndFeedImpl.entries[7].modules[0].language=null
+SyndFeedImpl.entries[7].modules[0].identifier=null
+SyndFeedImpl.entries[7].comments=null
+SyndFeedImpl.contributors=[]
+SyndFeedImpl.foreignMarkup=[]
+SyndFeedImpl.image.title=null
+SyndFeedImpl.image.description=null
+SyndFeedImpl.image.link=null
+SyndFeedImpl.image.interface=interface com.rometools.rome.feed.synd.SyndImage
+SyndFeedImpl.image.url=http://markmail.org/images/logo_red.gif
+SyndFeedImpl.links[0].hreflang=null
+SyndFeedImpl.links[0].title=null
+SyndFeedImpl.links[0].length=0
+SyndFeedImpl.links[0].rel=self
+SyndFeedImpl.links[0].type=null
+SyndFeedImpl.links[0].href=http://markmail.org/search/?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.copyright=null
+SyndFeedImpl.interface=interface com.rometools.rome.feed.synd.SyndFeed
+SyndFeedImpl.uri=http://markmail.org/atom/?q=thread:wwh3xf4ssm5oil7x
+SyndFeedImpl.webMaster=null
+SyndFeedImpl.styleSheet=null
+SyndFeedImpl.managingEditor=null
+SyndFeedImpl.feedType=atom_1.0
+SyndFeedImpl.categories=[]
+SyndFeedImpl.language=null
+SyndFeedImpl.publishedDate=null
+SyndFeedImpl.modules[0].publishers=[]
+SyndFeedImpl.modules[0].subjects=[]
+SyndFeedImpl.modules[0].identifiers=[]
+SyndFeedImpl.modules[0].subject=null
+SyndFeedImpl.modules[0].coverages=[]
+SyndFeedImpl.modules[0].rights=null
+SyndFeedImpl.modules[0].date=null
+SyndFeedImpl.modules[0].type=null
+SyndFeedImpl.modules[0].sources=[]
+SyndFeedImpl.modules[0].descriptions=[]
+SyndFeedImpl.modules[0].creator=null
+SyndFeedImpl.modules[0].formats=[]
+SyndFeedImpl.modules[0].publisher=null
+SyndFeedImpl.modules[0].languages=[]
+SyndFeedImpl.modules[0].title=null
+SyndFeedImpl.modules[0].dates=[]
+SyndFeedImpl.modules[0].description=null
+SyndFeedImpl.modules[0].contributor=null
+SyndFeedImpl.modules[0].types=[]
+SyndFeedImpl.modules[0].contributors=[]
+SyndFeedImpl.modules[0].relation=null
+SyndFeedImpl.modules[0].format=null
+SyndFeedImpl.modules[0].interface=interface com.rometools.rome.feed.module.DCModule
+SyndFeedImpl.modules[0].uri=http://purl.org/dc/elements/1.1/
+SyndFeedImpl.modules[0].creators=[]
+SyndFeedImpl.modules[0].source=null
+SyndFeedImpl.modules[0].relations=[]
+SyndFeedImpl.modules[0].coverage=null
+SyndFeedImpl.modules[0].titles=[]
+SyndFeedImpl.modules[0].rightsList=[]
+SyndFeedImpl.modules[0].language=null
+SyndFeedImpl.modules[0].identifier=null
+SyndFeedImpl.preservingWireFeed=false
+
