@@ -21,6 +21,7 @@ import org.xml.sax.SAXException;
  * @author mpradeep
  *
  */
+@Deprecated
 public class UsersDomParser {
 
   public static void main(String[] args) throws SAXException, IOException,
